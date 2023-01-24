@@ -26,7 +26,7 @@ The webpage consists on the following:
 The website looks like the following image:
 [Hotison website screenshot](./assets/images/Hotison-WebPage.png)
 
-**Website link: (https://anabel.espinoza.github.io/Refactoring-Hotiseon/)**
+**Website link: (https://anabel-espinoza.github.io/Refactoring-Hotiseon/)**
 
 ## Credits
 
@@ -35,6 +35,5 @@ The website looks like the following image:
 
 ## License
 
-Please refer to the LICENSE in the repo.
-
+MIT License used.
 ---
