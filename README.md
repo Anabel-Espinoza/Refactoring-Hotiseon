@@ -31,7 +31,7 @@ The website looks like the following image:
 ## Credits
 
 - Website created by Hotiseon Social Solution Services, Inc.
-- Update by: Anabel Espinoza (https://github.com/Anabel-Espinoza)
+- Updated by: Anabel Espinoza (https://github.com/Anabel-Espinoza)
 
 ## License
 
