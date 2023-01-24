@@ -23,10 +23,10 @@ The webpage consists on the following:
 - List of Hotiseon benefits displayed in a column to the right of the services cards.
 - Footer with the webpage creator information.
 
-The website looks like the following image:
-[Hotison website screenshot](./assets/images/Hotison-WebPage.png)
-
 **Website link: (https://anabel-espinoza.github.io/Refactoring-Hotiseon/)**
+
+The website looks like the following image:
+![Hotison website screenshot](./assets/images/Hotison-WebPage.png)
 
 ## Credits
 
