@@ -1,4 +1,4 @@
-# Horison website Refactoring
+# Hotiseon website Refactoring
 
 ## Description
 
