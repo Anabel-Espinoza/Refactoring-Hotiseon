@@ -35,5 +35,5 @@ The website looks like the following image:
 
 ## License
 
-MIT License used.
+- MIT License used.
 ---
